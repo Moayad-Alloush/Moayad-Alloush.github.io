@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Moayad-Alloush.github.io/static/css/main.a6ce1345.css",
+    "main.js": "/Moayad-Alloush.github.io/static/js/main.cb7fb919.js",
+    "static/js/512.125ea300.chunk.js": "/Moayad-Alloush.github.io/static/js/512.125ea300.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Moayad-Alloush.github.io/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/Moayad-Alloush.github.io/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/Moayad-Alloush.github.io/index.html",
+    "main.a6ce1345.css.map": "/Moayad-Alloush.github.io/static/css/main.a6ce1345.css.map",
+    "main.cb7fb919.js.map": "/Moayad-Alloush.github.io/static/js/main.cb7fb919.js.map",
+    "512.125ea300.chunk.js.map": "/Moayad-Alloush.github.io/static/js/512.125ea300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ce1345.css",
+    "static/js/main.cb7fb919.js"
+  ]
+}
